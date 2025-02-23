@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    projectId: "YOUR_PROJECT",
-    storageBucket: "YOUR_PROJECT.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyArid7gEN3YwY0seiJt92CQf-9nzpTAZG0",
+    authDomain: "coupenredeem.firebaseapp.com",
+    projectId: "coupenredeem",
+    storageBucket: "coupenredeem.firebasestorage.app",
+    messagingSenderId: "39525609057",
+    appId: "1:39525609057:web:1c027d1f9b59808411c420"
 };
 
 firebase.initializeApp(firebaseConfig);
